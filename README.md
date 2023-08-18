@@ -1,6 +1,6 @@
 Olá! 👋
 
-Meu nome é Anderson Trajano e sou um estudante de Analise e Desenvolvimento de Softwares. Atualmente, estou me preparando para iniciar minha carreira na área de tecnologia e, enquanto isso, tenho me dedicado a projetos pessoais que demonstram minhas habilidades técnicas e criativas.
+Meu nome é Anderson Trajano e sou formado em Analise e Desenvolvimento de Softwares. Atualmente, estou me preparando para iniciar minha carreira na área de tecnologia e, enquanto isso, tenho me dedicado a projetos pessoais que demonstram minhas habilidades técnicas e criativas.
 
 Neste perfil do GitHub, você encontrará alguns dos projetos em que tenho trabalhado. Até o momento, tenho dois repositórios públicos disponíveis, um deles é um aplicativo de e-commerce que desenvolvi como parte de um projeto pessoal, e o outro é um conjunto de testes automatizados que criei para aprimorar minhas habilidades nessa área.
 
