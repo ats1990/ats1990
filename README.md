@@ -31,7 +31,7 @@ Meu nome é Anderson Trajano e sou um desenvolvedor de software apaixonado por c
 
 Sinta-se à vontade para entrar em contato comigo para discutir projetos, oportunidades de colaboração ou qualquer assunto relacionado à tecnologia.
 
-* **Email:** [Seu Email]
-* **LinkedIn:** [Seu Perfil do LinkedIn]
+* **Email:** [andersontrajano91@gmail.com]
+* **LinkedIn:** [www.linkedin.com/in/anderson-trajano]
 
 Obrigado por visitar meu perfil! 😊
